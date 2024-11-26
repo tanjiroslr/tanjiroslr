@@ -3,18 +3,6 @@
 👩🏻‍💻 Software Engineer, based in Paris's suburbs, France<br/>
 👩🏻‍🎓 Studied Computer Science at Epitech, France<br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-theta-taupe.vercel.app/api?username=tanjiroslr&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-theta-taupe.vercel.app/api?username=tanjiroslr&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-theta-taupe.vercel.app/api?username=tanjiroslr&show_icons=true" />
-</picture>
-
 # 💻 Tech Stack
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
